@@ -115,9 +115,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  /*background-image: url("http://2.bp.blogspot.com/-n4oq4dyVpqM/VAFvQaT6IZI/AAAAAAAAOhc/tbyqdqtS6q0/s1600/dh.png");*/
-  background-image: url("../img/header-bg.jpg");
-  /*background-image: url("../img/mainmaid.png");*/
+  background-image: url("../img/mainmaid.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
